@@ -1,0 +1,10 @@
+npm init -y
+npm install -g firebase-tools
+firebase login
+save index.html in the current location
+firebase init hosting
+public directory - .
+spa - no
+build and deploy - no
+index.html exists - no
+firebase deploy
